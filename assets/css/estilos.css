@@ -1,0 +1,122 @@
+/* Navbar 
+
+nav {
+    background-color: #000f08;
+    color: white;
+    text-align: left;
+    padding: 5px 120px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.smallNav {
+    font-size: 10px;
+}
+
+nav li {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 60px;
+}
+
+nav li a {
+    color: white;
+    text-decoration: none;
+    list-style: none;
+}
+
+header {
+    background-image: url(../img/bg-hero.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Alkatra', cursive;
+    text-shadow: 0px 3px 6px black;
+    text-align: left;
+    color: white;
+}
+
+header h1 {
+    font-size: 60px;
+    font-weight: 900;
+}
+
+header h2 {
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.wework {
+    font-family: 'Alkatra', cursive;
+}
+
+.eventosant {
+    font-family: 'Alkatra', cursive;
+}
+
+#Proxima-Charla {
+    background: #a4452c;
+    padding: 100px;
+    color: white;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+#Proxima-Charla .wrapper {
+    width: 800px;
+    margin: auto;
+}
+
+.wrapper img {
+    width: 25%;
+}
+
+.wrapper .texto {
+    width: 70%;
+    margin-left: 4%;
+}
+
+.wrapper img,
+.texto {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+footer {
+    background-color: #000f08;
+    color: white;
+    padding: 120px 100px 100px 100px;
+    font-size: 25px;
+}
+
+footer a {
+    color: white;
+    margin: 0px 20px;
+    text-decoration: none;
+}
+
+footer p {
+    margin-top: 40px;
+}
+*/
+
+header {
+    background-image: url(../img/bg-hero.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: 0px 3px 6px black;
+    text-align: left;
+    color: white;
+}
+
+header {
+    color: white;
+}
+
+.mfooter {
+    font-size: 12px;
+}
+
+#Proxima-Charla {
+    background-color: chocolate;
+}
